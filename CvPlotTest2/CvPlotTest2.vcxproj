@@ -104,7 +104,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>D:\opencv-4.6.0\source\modules\core\include;D:\opencv-4.6.0\source\modules\imgproc\include;D:\opencv-4.6.0\source\modules\highgui\include;D:\opencv-4.6.0\source\mysource\CvPlotFix-main\examples;D:\opencv-4.6.0\source\mysource\CvPlotFix-main\inc;D:\opencv-4.6.0\build;D:\opencv-4.6.0\source\modules\imgcodecs\include;D:\opencv-4.6.0\source\modules\videoio\include</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>D:\opencv-4.6.0\source\modules\core\include;D:\opencv-4.6.0\source\modules\imgproc\include;D:\opencv-4.6.0\source\modules\highgui\include;D:\opencv-4.6.0\source\mysource\CvPlotFix-main\examples;D:\opencv-4.6.0\source\mysource\CvPlotFix-main\inc;D:\opencv-4.6.0\build;D:\opencv-4.6.0\source\modules\imgcodecs\include;D:\opencv-4.6.0\source\modules\videoio\include;..\inc\</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
